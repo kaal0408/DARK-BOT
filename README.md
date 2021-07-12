@@ -8,7 +8,7 @@
 
  
 
-[![DARK BOT](https://telegra.ph/file/39f09438e6d3d43c56d47.jpg)](https://t.me/Dark_bot_chit_chat)
+[![DARK BOT](https://telegra.ph/file/ddda9765044be986ff513.jpg)](https://t.me/Dark_ultra_support_group)
 
 
 <details><summary> <h1 align="center">🧾INSTRUCTIONS🧾</h1> </summary>

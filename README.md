@@ -1,4 +1,4 @@
-[![Pushpendra6367 - DARKBOT](https://img.shields.io/static/v1?label=Pushpendra6367&message=DARKBOT&color=blue&logo=github)](https://github.com/Pushpendra6367/DARK_BOT)
+[![kaal0408 - DARKBOT](https://img.shields.io/static/v1?label=kaal0408&message=DARK-BOT&color=blue&logo=github)](https://github.com/kaal0408/DARK-BOT)
 [![License](https://img.shields.io/badge/License-GNU-blue)](#license)
 
 
@@ -31,7 +31,7 @@
   - To host on heroku click on below link
     
 
-    <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FPushpendra6367%2FDark_BOT&template=https%3A%2F%2Fgithub.com%2FPushpendra6367%2FDark_BOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+    <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fkaal0408%2FDark-BOT&template=https%3A%2F%2Fgithub.com%2Fkaal0408%2FDark-BOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
      </a>
 
    - You can host it on also on other VPS
@@ -67,29 +67,14 @@
 <details><summary> <h1 align="center">CREDITS 👨‍🔬</h1> </summary>
  
 
- ## • FURIOUS XY ※┄┄➳  <a href="https://github.com/Furious-xy" alt="FURIOUS-XY"> <img src="https://img.shields.io/badge/Furious-XY-E5E4E2?logo=github" /></a>
-
-### • Harsh-78 ※┄┄➳  <a href="https://github.com/Harsh-78" alt="Harsh-78"> <img src="https://img.shields.io/badge/Harsh-78-E5E4E2?logo=github" /></a>
-
-### • FuriousXprince ※┄┄➳ <a href="https://github.com/FuriosXprince" alt="Harsh-78"> <img src="https://img.shields.io/badge/Harsh-78-E5E4E2?logo=github" /></a>
-
-</details>
-
-<details><summary> <h1 align="center">Official Support</h1> </summary>
  
-<a href="https://t.me/Darkbot_channel"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-
-<a href="https://t.me/Dark_bot_chit_chat"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
-
-[![Contact Us](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Nikkuiii)
-
 <details>
 
   <summary> <h3>• LICENSE •</h3> </summary>
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 Pushpendra6367
+Copyright (C) 2021 kaal0408
 
 Poject [Dark bot](https://github.com/Pushpendra6367/Dark-userbot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

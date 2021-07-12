@@ -1,7 +1,7 @@
 {
   "name": "D A R K B O T",
   "description": "THE DARKBOT made by @HARSH_78 special thanks to @H1M4N5UOP. Join for updates related info @Darkbot_channel",
-  "logo": "https://telegra.ph/file/e776cd3a6603176b96557.jpg",
+  "logo": "https://telegra.ph/file/ddda9765044be986ff513.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Pushpendra6367/Dark Bot",
+  "repository": "https://github.com/kaal0408/DARK-BOT",
   "website": "https://replit.com/@DARKHARSHOP/DARKBOT-STRING-GENERATOR/",
   "success_url": "https://t.me/Harsh_78",
 "env": {
@@ -34,7 +34,7 @@
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive command.",
-      "value": "https://telegra.ph/file/73045be500e05a74e6b68.jpg",
+      "value": "https://telegra.ph/file/ddda9765044be986ff513.jpg",
       "required": false
     },
     "BIO_MSG": {
@@ -44,7 +44,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/63aa054a3bffc4ae85022.jpg",
+      "value": "https://telegra.ph/file/ddda9765044be986ff513.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
